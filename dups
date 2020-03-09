@@ -1,0 +1,81 @@
+Results: 
+
+["/Users/tony/duper/_build/dev/lib/duper/consolidated/Elixir.Collectable.beam",
+ "/Users/tony/duper/_build/test/lib/duper/consolidated/Elixir.Collectable.beam",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/duper/consolidated/Elixir.Collectable.beam",
+ "/Users/tony/duper/.elixir_ls/dialyzer_tmp/.elixir_ls/build/test/lib/duper/consolidated/Elixir.Collectable.beam"]
+["/Users/tony/duper/_build/dev/lib/duper/.mix/compile.protocols",
+ "/Users/tony/duper/_build/test/lib/duper/.mix/compile.protocols",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/duper/.mix/compile.protocols"]
+["/Users/tony/duper/_build/dev/lib/duper/consolidated/Elixir.Inspect.beam",
+ "/Users/tony/duper/_build/test/lib/duper/consolidated/Elixir.Inspect.beam",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/duper/consolidated/Elixir.Inspect.beam",
+ "/Users/tony/duper/.elixir_ls/dialyzer_tmp/.elixir_ls/build/test/lib/duper/consolidated/Elixir.Inspect.beam"]
+["/Users/tony/duper/deps/dir_walker/.fetch",
+ "/Users/tony/duper/_build/dev/lib/dir_walker/.mix/compile.fetch",
+ "/Users/tony/duper/_build/dev/lib/duper/.mix/compile.lock",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/dir_walker/.mix/compile.fetch",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/duper/.mix/compile.lock",
+ "/Users/tony/duper/dups"]
+["/Users/tony/duper/_build/dev/lib/duper/consolidated/Elixir.Enumerable.beam",
+ "/Users/tony/duper/_build/test/lib/duper/consolidated/Elixir.Enumerable.beam",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/duper/consolidated/Elixir.Enumerable.beam",
+ "/Users/tony/duper/.elixir_ls/dialyzer_tmp/.elixir_ls/build/test/lib/duper/consolidated/Elixir.Enumerable.beam"]
+["/Users/tony/duper/_build/dev/lib/dir_walker/ebin/dir_walker.app",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/dir_walker/ebin/dir_walker.app"]
+["/Users/tony/duper/_build/dev/lib/duper/ebin/Elixir.Duper.WorkerSupervisor.beam",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.WorkerSupervisor.beam",
+ "/Users/tony/duper/.elixir_ls/dialyzer_tmp/.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.WorkerSupervisor.beam"]
+["/Users/tony/duper/_build/dev/lib/dir_walker/ebin/Elixir.DirWalker.beam",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/dir_walker/ebin/Elixir.DirWalker.beam",
+ "/Users/tony/duper/.elixir_ls/dialyzer_tmp/.elixir_ls/build/test/lib/dir_walker/ebin/Elixir.DirWalker.beam"]
+["/Users/tony/duper/_build/dev/lib/dir_walker/.mix/compile.elixir_scm",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/dir_walker/.mix/compile.elixir_scm"]
+["/Users/tony/duper/_build/dev/lib/duper/ebin/Elixir.Duper.Application.beam",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.Application.beam",
+ "/Users/tony/duper/.elixir_ls/dialyzer_tmp/.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.Application.beam"]
+["/Users/tony/duper/_build/dev/lib/dir_walker/.mix/compile.xref",
+ "/Users/tony/duper/_build/dev/lib/duper/.mix/compile.xref",
+ "/Users/tony/duper/_build/test/lib/duper/.mix/compile.xref",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/dir_walker/.mix/compile.xref",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/duper/.mix/compile.xref"]
+["/Users/tony/duper/_build/dev/lib/duper/consolidated/Elixir.IEx.Info.beam",
+ "/Users/tony/duper/_build/test/lib/duper/consolidated/Elixir.IEx.Info.beam",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/duper/consolidated/Elixir.IEx.Info.beam",
+ "/Users/tony/duper/.elixir_ls/dialyzer_tmp/.elixir_ls/build/test/lib/duper/consolidated/Elixir.IEx.Info.beam"]
+["/Users/tony/duper/_build/dev/lib/duper/consolidated/Elixir.List.Chars.beam",
+ "/Users/tony/duper/_build/test/lib/duper/consolidated/Elixir.List.Chars.beam",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/duper/consolidated/Elixir.List.Chars.beam",
+ "/Users/tony/duper/.elixir_ls/dialyzer_tmp/.elixir_ls/build/test/lib/duper/consolidated/Elixir.List.Chars.beam"]
+["/Users/tony/duper/_build/dev/lib/duper/ebin/Elixir.Duper.Worker.beam",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.Worker.beam",
+ "/Users/tony/duper/.elixir_ls/dialyzer_tmp/.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.Worker.beam"]
+["/Users/tony/duper/_build/dev/lib/dir_walker/.mix/compile.elixir",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/dir_walker/.mix/compile.elixir"]
+["/Users/tony/duper/.git/logs/refs/heads/master",
+ "/Users/tony/duper/.git/logs/HEAD"]
+["/Users/tony/duper/.git/refs/remotes/origin/master",
+ "/Users/tony/duper/.git/refs/heads/master"]
+["/Users/tony/duper/_build/dev/lib/duper/consolidated/Elixir.String.Chars.beam",
+ "/Users/tony/duper/_build/test/lib/duper/consolidated/Elixir.String.Chars.beam",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/duper/consolidated/Elixir.String.Chars.beam",
+ "/Users/tony/duper/.elixir_ls/dialyzer_tmp/.elixir_ls/build/test/lib/duper/consolidated/Elixir.String.Chars.beam"]
+["/Users/tony/duper/_build/dev/lib/duper/.mix/compile.elixir_scm",
+ "/Users/tony/duper/_build/test/lib/duper/.mix/compile.elixir_scm",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/duper/.mix/compile.elixir_scm"]
+["/Users/tony/duper/_build/dev/lib/duper/ebin/Elixir.Duper.Gatherer.beam",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.Gatherer.beam",
+ "/Users/tony/duper/.elixir_ls/dialyzer_tmp/.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.Gatherer.beam"]
+["/Users/tony/duper/_build/dev/lib/duper/ebin/Elixir.Duper.Results.beam",
+ "/Users/tony/duper/_build/test/lib/duper/ebin/Elixir.Duper.Results.beam",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.Results.beam",
+ "/Users/tony/duper/.elixir_ls/dialyzer_tmp/.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.Results.beam"]
+["/Users/tony/duper/_build/dev/lib/duper/ebin/duper.app",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/duper/ebin/duper.app"]
+["/Users/tony/duper/_build/dev/lib/duper/ebin/Elixir.Duper.beam",
+ "/Users/tony/duper/_build/test/lib/duper/ebin/Elixir.Duper.beam",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.beam",
+ "/Users/tony/duper/.elixir_ls/dialyzer_tmp/.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.beam"]
+["/Users/tony/duper/_build/dev/lib/duper/ebin/Elixir.Duper.PathFinder.beam",
+ "/Users/tony/duper/.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.PathFinder.beam",
+ "/Users/tony/duper/.elixir_ls/dialyzer_tmp/.elixir_ls/build/test/lib/duper/ebin/Elixir.Duper.PathFinder.beam"]
